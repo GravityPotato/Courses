@@ -18,3 +18,19 @@ The courses I have taken/ will take at University of Glasgow specifically in Com
 * Network Systems
 
 * Robotics Foundations
+
+* Algorithms Foundations
+
+* Algorithms and data structures
+
+* Web App Development
+
+* Java and object oriented programming
+
+* Systems and networks
+
+* Python Programming
+
+* C and Linux
+
+* Computer Fundamentals: MySQL and HCI
