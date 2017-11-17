@@ -1,5 +1,5 @@
 # Courses
-The courses I have taken/ will take at University of Glasgow specifically in Computer Science
+The courses I have taken/ will take in next semester at University of Glasgow specifically in Computer Science
 
 * Algorithimcs 1 (H)
 
